@@ -25,7 +25,7 @@ from minitorch.operators import (
     sum,
 )
 
-from .strategies import assert_close, small_floats
+from tests.strategies import assert_close, small_floats
 
 # ## Task 0.1 Basic hypothesis tests.
 
